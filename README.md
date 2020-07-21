@@ -5,6 +5,6 @@ Our goal this week with this workshop and mini-project is to practice working wi
 
 # Collaborators
 There's more than a dozen on the team, but this is who you'll see this week:
-Ryan Calder
-Rebecca Muenich
-Jeff Bielicki
+- Ryan Calder
+- Rebecca Muenich
+- Jeff Bielicki
